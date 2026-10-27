@@ -1,0 +1,51 @@
+respondent_id,review_rating,review_count,review_credibility,review_importance,purchase_intention,age_group,gender
+1,5,12,High,Very Important,Likely,18-24,Female
+2,4,8,High,Important,Likely,25-34,Male
+3,3,3,Moderate,Neutral,Neutral,35-44,Female
+4,5,20,High,Very Important,Likely,18-24,Male
+5,2,1,Low,Not Important,Unlikely,45-54,Female
+6,4,6,High,Important,Likely,25-34,Male
+7,3,4,Moderate,Neutral,Neutral,18-24,Female
+8,5,15,High,Very Important,Likely,25-34,Male
+9,1,0,Low,Not Important,Unlikely,55+,Female
+10,4,9,High,Important,Likely,35-44,Male
+11,2,2,Low,Not Important,Unlikely,18-24,Female
+12,5,18,High,Very Important,Likely,25-34,Male
+13,3,5,Moderate,Neutral,Neutral,45-54,Female
+14,4,7,High,Important,Likely,25-34,Male
+15,5,22,High,Very Important,Likely,18-24,Male
+16,1,0,Low,Not Important,Unlikely,35-44,Female
+17,3,3,Moderate,Neutral,Neutral,25-34,Male
+18,4,11,High,Important,Likely,18-24,Female
+19,5,25,High,Very Important,Likely,25-34,Male
+20,2,1,Low,Not Important,Unlikely,45-54,Female
+21,4,8,High,Important,Likely,35-44,Male
+22,3,4,Moderate,Neutral,Neutral,18-24,Female
+23,5,16,High,Very Important,Likely,25-34,Male
+24,2,2,Low,Not Important,Unlikely,55+,Female
+25,4,6,Moderate,Important,Likely,18-24,Male
+26,3,3,Moderate,Neutral,Neutral,25-34,Female
+27,5,14,High,Very Important,Likely,35-44,Male
+28,4,9,High,Important,Likely,25-34,Female
+29,1,0,Low,Not Important,Unlikely,18-24,Male
+30,5,19,High,Very Important,Likely,25-34,Female
+31,3,5,Moderate,Neutral,Neutral,45-54,Male
+32,4,7,High,Important,Likely,18-24,Female
+33,5,21,High,Very Important,Likely,25-34,Male
+34,2,1,Low,Not Important,Unlikely,35-44,Female
+35,4,10,High,Important,Likely,25-34,Male
+36,3,3,Moderate,Neutral,Neutral,18-24,Female
+37,5,17,High,Very Important,Likely,25-34,Male
+38,2,2,Low,Not Important,Unlikely,45-54,Male
+39,4,8,High,Important,Likely,35-44,Female
+40,5,23,High,Very Important,Likely,18-24,Male
+41,3,4,Moderate,Neutral,Neutral,25-34,Female
+42,4,6,High,Important,Likely,25-34,Male
+43,1,0,Low,Not Important,Unlikely,55+,Female
+44,5,20,High,Very Important,Likely,18-24,Male
+45,2,1,Low,Not Important,Unlikely,35-44,Female
+46,4,9,High,Important,Likely,25-34,Male
+47,3,5,Moderate,Neutral,Neutral,18-24,Female
+48,5,15,High,Very Important,Likely,25-34,Male
+49,4,7,High,Important,Likely,35-44,Male
+50,2,2,Low,Not Important,Unlikely,45-54,Female
